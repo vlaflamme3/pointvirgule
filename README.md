@@ -1,3 +1,3 @@
-```python
-**https://vlaflamme3.github.io/pointvirgule/**
+```lua
+https://vlaflamme3.github.io/pointvirgule/
 ```
