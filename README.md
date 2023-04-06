@@ -1,1 +1,1 @@
-vlaflamme3.github.io/pointvirgule
+https://vlaflamme3.github.io/pointvirgule/
